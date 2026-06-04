@@ -1,4 +1,10 @@
-## 📊 EMERGENCY DEPARTMENT DASHBOARD (Power BI)
+## 📊 EMERGENCY DEPARTMENT DASHBOARD (Power BI)  
+
+📖 **Description**  
+This Emergency Department Dashboard was created in Power BI. Please see both the dark theme and light theme accessible versions.
+
+🧠 Objectives
+Understand patient volume, demographics and referral trends to determine business solutions to questions involving staffing, resource allocation and process improvement.
 
 🔍 **Dataset Overview**  
 
