@@ -32,3 +32,4 @@ Fields:
  🛠 **Tools & Technologies**  
  
 * Power BI
+[ED Dashboard Dark and Light (Accessible) Theme.pdf](https://github.com/user-attachments/files/28617465/ED.Dashboard.Dark.and.Light.Accessible.Theme.pdf)
