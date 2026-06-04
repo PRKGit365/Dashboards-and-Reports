@@ -5,7 +5,7 @@ This Emergency Department Dashboard was created in Power BI. Please see both the
 
 🧠 Objectives  
 * Understand patient volume, demographics and referral trends  
-* Determine solutions to business questions involving process improvement, patient throughput and how to optimize staffing and resource allocation.
+* Determine solutions to business questions involving process improvement, patient throughput and how to optimize staffing and resource allocation
 
 🔍 **Dataset Overview**  
 
