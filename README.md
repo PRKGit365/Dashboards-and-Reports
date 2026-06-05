@@ -1,4 +1,4 @@
-https://app.powerbi.com/links/FYOMtnTY0J?ctid=3f18da5c-c6d2-4778-aa0a-b0fff5c636e7&pbi_source=linkShare&bookmarkGuid=b95302e1-1ec0-479d-9b7b-0090a9e0f616
+<iframe title="Emergency_Department_Dashboard Power BI" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGVkMGE4NzUtYjMwZS00ZDBjLWFhOGYtMWQzY2NiMDUzZmQwIiwidCI6IjNmMThkYTVjLWM2ZDItNDc3OC1hYTBhLWIwZmZmNWM2MzZlNyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## 📊 EMERGENCY DEPARTMENT DASHBOARD (Power BI)  
 
