@@ -1,5 +1,3 @@
-<iframe title="Emergency_Department_Dashboard Power BI" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGVkMGE4NzUtYjMwZS00ZDBjLWFhOGYtMWQzY2NiMDUzZmQwIiwidCI6IjNmMThkYTVjLWM2ZDItNDc3OC1hYTBhLWIwZmZmNWM2MzZlNyJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 ## 📊 EMERGENCY DEPARTMENT DASHBOARD (Power BI)  
 
 📖 **Description**  
