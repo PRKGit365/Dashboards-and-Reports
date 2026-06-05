@@ -1,3 +1,5 @@
+https://app.powerbi.com/links/FYOMtnTY0J?ctid=3f18da5c-c6d2-4778-aa0a-b0fff5c636e7&pbi_source=linkShare&bookmarkGuid=b95302e1-1ec0-479d-9b7b-0090a9e0f616
+
 ## 📊 EMERGENCY DEPARTMENT DASHBOARD (Power BI)  
 
 📖 **Description**  
@@ -34,17 +36,4 @@ Fields:
  
 * Power BI
 
-<img width="1302" height="741" alt="ED Dashboard Dark Theme 2021" src="https://github.com/user-attachments/assets/368a2a10-5495-40b4-a0a5-410fc13b162e" />
-<img width="1317" height="737" alt="ED Dashboard Dark Theme 2022" src="https://github.com/user-attachments/assets/58c2840e-9a62-4c4f-88ea-8eea8d501468" />
-<img width="1308" height="737" alt="ED Dashboard Dark Theme 2023" src="https://github.com/user-attachments/assets/185c2305-7864-416e-a2ed-b50a1191b514" /><img width="1327" height="736" alt="ED 
-<img width="1325" height="738" alt="ED Dashboard Light (Accessible) Theme 2021" src="https://github.com/user-attachments/assets/482a99bb-fba8-44fd-b0c2-a46e37f8dc6d" />
-<img width="1327" height="736" alt="ED Dashboard Light Theme (Accessible) 2022" src="https://github.com/user-attachments/assets/a79b38d4-5b05-4021-8124-a86b193255f9" />
-<img width="1327" height="742" alt="ED Dashboard Light Theme (Accessible) 2023" src="https://github.com/user-attachments/assets/ffa01b7c-2962-43f1-9222-8f90cbf604c7" />
 
-
-
-
-
-
-
-  
