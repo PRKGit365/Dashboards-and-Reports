@@ -2,7 +2,7 @@
 
 📖 **Description**  
 
-This Emergency Department Dashboard was created in Power BI. Please see both the light theme accessible version (page 1) and the dark theme version.  
+This Emergency Department Dashboard was created in Power BI. Please see both the light theme accessible version and the dark theme version.  
 
 [View interactive Dashboard](https://prkgit365.github.io/Dashboards-and-Reports/)
 
