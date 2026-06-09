@@ -8,8 +8,9 @@ This is an executive-level Emergency Department Dashboard created in Power BI to
 
 🧠 **Objectives**
 
-* Hospital management needs to understand patient volume, demographics and referral trends. This will support solutions to business questions involving process improvement, patient throughput and how to optimize staffing and resource allocation.
-* Questions include: How should staffing and resource allocation be managed to handle demand fluctuations? Management need to know which days may need higher staffing levels or more efficient management. 
+* Hospital management needs to understand patient volume, demographics and referral trends to determine solutions to the business question: How should staffing and resource allocation be managed to handle demand fluctuations? Management needs to know which days may need higher staffing levels or more efficient management and the type of patients and referrals that are made.
+* This dashboard supports solutions to related business questions as well - those involving process improvement, patient throughput and how to optimize staffing and resource allocation.
+
   
 🔍 **Dataset Overview**  
 
